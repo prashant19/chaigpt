@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",
+    "@neondatabase/serverless": "^1.1.0",
     "add": "^2.0.6",
     "button": "^1.1.1",
     "class-variance-authority": "^0.7.1",
